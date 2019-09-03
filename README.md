@@ -1,0 +1,2 @@
+# kafka-poc
+Notification service
