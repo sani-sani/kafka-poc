@@ -1,0 +1,13 @@
+D:\Learning\Kafka\Kafka\Producer\Producer\bin\Release\Producer.exe.config
+D:\Learning\Kafka\Kafka\Producer\Producer\bin\Release\message1kb.txt
+D:\Learning\Kafka\Kafka\Producer\Producer\bin\Release\Producer.exe
+D:\Learning\Kafka\Kafka\Producer\Producer\bin\Release\Producer.pdb
+D:\Learning\Kafka\Kafka\Producer\Producer\obj\Release\Producer.exe
+D:\Learning\Kafka\Kafka\Producer\Producer\obj\Release\Producer.pdb
+D:\Learning\Kafka\Kafka\Producer\Producer\bin\Release\KafkaNET.Library.dll
+D:\Learning\Kafka\Kafka\Producer\Producer\bin\Release\log4net.dll
+D:\Learning\Kafka\Kafka\Producer\Producer\bin\Release\ZooKeeperNet.dll
+D:\Learning\Kafka\Kafka\Producer\Producer\bin\Release\log4net.xml
+D:\Learning\Kafka\Kafka\Producer\Producer\bin\Release\KafkaNET.Library.pdb
+D:\Learning\Kafka\Kafka\Producer\Producer\bin\Release\KafkaNET.Library.xml
+D:\Learning\Kafka\Kafka\Producer\Producer\obj\Release\Producer.csprojResolveAssemblyReference.cache
